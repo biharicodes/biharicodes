@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali@biharicodes
 - 👀 I’m interested in Website Development Projects
-- 🌱 I’m currently using/learning HTML/CSS/PHP/JS
+- 🌱 I’m currently using/learning HTML, CSS, JS, PHP, MySQL, React, MongoDB
 - 💞️ I’m looking to collaborate on New Project Ideas
 - 📫 How to reach me -> alishanmail3@gmail.com
 
